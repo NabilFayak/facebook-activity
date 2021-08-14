@@ -40,12 +40,10 @@ Facebook Messenger is a simple and instant messaging app based on the super popu
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Messenger Chat
+   * View all chats and groupchats
+* Messenger Discover
+   * Discover products and services that might be useful
 
 ### 3. Navigation
 
