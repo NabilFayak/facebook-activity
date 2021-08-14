@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+Facebook Messenger is a simple and instant messaging app based on the super popular Facebook account. You can now easily message all of your Facebook friends and peers, all at the single touch of a button.
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -29,12 +29,14 @@ Original App Design Project - README Template
 **Required Must-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* Able to message other people
+* Audio Call and Video Call
+* React to messages
 
 **Optional Nice-to-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* Have user stories
 
 ### 2. Screen Archetypes
 
